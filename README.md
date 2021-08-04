@@ -3,9 +3,9 @@
   <a href="https://github.com/rafaelsantosr1">
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="20" width="30" src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white">
-  <img align="center" alt="Rafa-Js" height="20" width="30" src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker">
-  <img align="center" alt="Rafa-Js" height="20" width="30" src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python">
+  <img align="center" alt="Rafa-Js" height="40" width="30" src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white">
+  <img align="center" alt="Rafa-Js" height="40" width="30" src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker">
+  <img align="center" alt="Rafa-Js" height="40" width="30" src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python">
 </div> 
  
   ## 
