@@ -26,12 +26,5 @@
     </div>      
     <hr class="solid">
 
-    <div>
-
-       <h2>I'm </h2>
-       <p> Professional with a passion for solving complex problems, with expertise in networks, systems administration, information security, operating systems and virtual environments. 
-        Ability to maintain system availability and performance. </p>
-            
-    </div>
 </body>
 </html>
