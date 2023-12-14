@@ -14,7 +14,7 @@
         <a href="https://github.com/rafaelsantosr1">
     </div>
 -->
-    <div class="flex-container" ali> 
+    <div class="flex-container" ali>  <p align="center"> 
         <div class="linux"> <p align="center"> <img src="./icons/Linux-Light.svg" alt=""> </div>
         <div class="bash">  <p align="center">  <img src="./icons/Bash-Dark.svg" alt=""> </div>
         <div class="docker"> <img src="./icons/Docker.svg" alt=""></div>
