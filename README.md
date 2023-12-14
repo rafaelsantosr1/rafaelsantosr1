@@ -10,6 +10,8 @@
         <img align="center" height="50" width="55"  src="./icons/JavaScript.svg" alt="">
 </div>      
 
- ## I'm
-Professional with a passion for solving complex problems, with expertise in networks, systems administration, information security, operating systems and virtual environments. Ability to maintain system availability and performance.
+ ##
+##  I'm
+ Professional with a passion for solving complex problems, with expertise in networks, systems administration, information security, operating systems and virtual environments. Ability to maintain system availability and performance.
  
+ ##
