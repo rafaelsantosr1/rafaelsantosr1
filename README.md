@@ -1,6 +1,6 @@
 ##
 <div style="display: inline_flex"><br>
-        <img align="center" height="40" width="55"  src="./icons/Linux-Light.svg" alt="">
+        <img align="center" height="50" width="55"  src="./icons/Linux-Light.svg" alt="">
         <img align="center" height="30" width="55"  src="./icons/Bash-Dark.svg" alt="">
         <img align="center" height="30" width="55"  src="./icons/Docker.svg" alt="">
         <img align="center" height="30" width="55"  src="./icons/Python-Light.svg" alt="">  
