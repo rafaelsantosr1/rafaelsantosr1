@@ -1,11 +1,7 @@
 <h1 align="center">Hello</a>
 </h1>
 
-<div>
-  <a href="https://github.com/rafaelsantosr1">
-</div>
-
-<div style="display: inline_flex" align="center"><br>
+<div style="display: inline_flex" align="center"> <a href="https://github.com/rafaelsantosr1"> <br>
         <img align="center" height="50" width="55"  src="./icons/Linux-Light.svg" alt="">
         <img align="center" height="50" width="55"  src="./icons/Bash-Dark.svg" alt="">
         <img align="center" height="50" width="55"  src="./icons/Docker.svg" alt="">
