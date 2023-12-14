@@ -15,8 +15,8 @@
     </div>
 -->
     <div class="flex-container" ali> 
-        <div class="linux"> <img src="./icons/Linux-Light.svg" alt=""> </div>
-        <div class="bash"> <img src="./icons/Bash-Dark.svg" alt=""> </div>
+        <div class="linux"> <p align="center"> <img src="./icons/Linux-Light.svg" alt=""> </div>
+        <div class="bash">  <p align="center">  <img src="./icons/Bash-Dark.svg" alt=""> </div>
         <div class="docker"> <img src="./icons/Docker.svg" alt=""></div>
         <div class="python"> <img src="./icons/Python-Light.svg" alt=""></div>  
         <div class="C"> <img src="./icons/C.svg" alt=""></div>
