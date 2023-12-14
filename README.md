@@ -11,7 +11,7 @@
 </div>      
 
  ##
-##  I'm
+ I'm
  Professional with a passion for solving complex problems, with expertise in networks, systems administration, information security, operating systems and virtual environments. Ability to maintain system availability and performance.
  
  ##
