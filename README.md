@@ -1,29 +1,3 @@
-
-## Hello.
- <div>
-  <a href="https://github.com/rafaelsantosr1">
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="55" src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white">
-  <img align="center" alt="Rafa-Js" height="30" width="55" src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker">
-  <img align="center" alt="Rafa-Js" height="30" width="55" src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python">
-</div> 
-
-  ## 
-
- <!--<div>
-
-
-
-
-
-
-
-
-
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -33,22 +7,23 @@
 
 </head>
 <body>
+ 
+ <div>
+  <a href="https://github.com/rafaelsantosr1">
+ </div>
+ 
     <h1>Hello</h1>
     <hr class="solid">
-<!--    
-    <div>
-        <a href="https://github.com/rafaelsantosr1">
-    </div>
--->
-    <div class="flex-container" ali> 
-        <div class="linux"> <img src="./icons/Linux-Light.svg" alt=""> </div>
-        <div class="bash">  <img src="./icons/Bash-Dark.svg" alt=""> </div>
-        <div class="docker"> <img src="./icons/Docker.svg" alt=""></div>
-        <div class="python"> <img src="./icons/Python-Light.svg" alt=""></div>  
-        <div class="C"> <img src="./icons/C.svg" alt=""></div>
-        <div class="html"> <img src="./icons/HTML.svg" alt=""> </div>
-        <div class="css"> <img src="./icons/CSS.svg" alt=""> </div>  
-        <div class="js"> <img src="./icons/JavaScript.svg" alt=""> </div>
+
+    <div style="display: inline_block"><br>
+        <img align="center" height="30" width="55"  src="./icons/Linux-Light.svg" alt=""
+        <img align="center" height="30" width="55"  src="./icons/Bash-Dark.svg" alt=""
+        <img align="center" height="30" width="55"  src="./icons/Docker.svg" alt=""
+        <img align="center" height="30" width="55"  src="./icons/Python-Light.svg" alt=""  
+        <img align="center" height="30" width="55"  src="./icons/C.svg" alt=""
+        <img align="center" height="30" width="55"  src="./icons/HTML.svg" alt=""
+        <img align="center" height="30" width="55"  src="./icons/CSS.svg" alt=""  
+        <img align="center" height="30" width="55"  src="./icons/JavaScript.svg" alt=""
     </div>      
     <hr class="solid">
 
