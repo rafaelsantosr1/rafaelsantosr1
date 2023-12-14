@@ -26,5 +26,27 @@
     </div>      
     <hr class="solid">
 
+h1 {
+  display: flex;
+  justify-content: center;
+}
+
+
+hr.solid {
+  text-align: center;
+  border-top: 1px solid #242020;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: center;
+}
+
+img {
+  display: center;
+  padding: 10px;
+  width: 50px;
+}
+
 </body>
 </html>
