@@ -4,7 +4,6 @@
 <div style="display: inline_flex" align="center"> <a href="https://github.com/rafaelsantosr1"> <br>
         <img align="center" height="50" width="55"  src="./icons/Linux-Light.svg" alt="">
         <img align="center" height="50" width="55"  src="./icons/Bash-Dark.svg" alt="">
-        <img align="center" height="50" width="55"  src="./icons/Zabbix.svg" alt="">
         <img align="center" height="50" width="55"  src="./icons/Grafana-Light.svg" alt="">
         <img align="center" height="50" width="55"  src="./icons/Docker.svg" alt="">
         <img align="center" height="50" width="55"  src="./icons/Python-Light.svg" alt="">
