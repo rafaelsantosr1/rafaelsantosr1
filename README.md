@@ -12,6 +12,7 @@
         <img align="center" height="50" width="55"  src="./icons/HTML.svg" alt="">
         <img align="center" height="50" width="55"  src="./icons/CSS.svg" alt="">
         <img align="center" height="50" width="55"  src="./icons/JavaScript.svg" alt="">
+        <img align="center" height="50" width="55"  src="./icons/Git.svg" alt="">
           
 </div>      
 
